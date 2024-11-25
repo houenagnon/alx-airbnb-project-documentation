@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.9.0">
+  <diagram name="Page-1" id="XKtvblSGaOQ_RLfk6jFl">
+    <mxGraphModel dx="756" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-6" value="Features and functionalities" style="swimlane;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="10" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-14" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="67" y="108" width="153" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="10" y="210" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-14" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="218" y="50" width="170" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="10" y="38" width="190" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-7" value="User Registration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="43" y="38" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-8" value="User Login and Authentication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="17" y="54" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-9" value="Profile Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="38" y="69" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-12" value="Edit/Delete Listings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="239" y="64" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-13" value="Search and Filtering Property" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="214" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-1" value="Booking Creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="87" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-2" value="Booking Cancellation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="78" y="145" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-3" value="Booking Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="96" y="161" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-5" value="Leave reviews and ratings for properties" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="17" y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-12" value="Notifications System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="264" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-4" value="Payment Integration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="264" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZoX6bi5iYsGN7nDJzRr-9" value="Respond to reviews" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Dhtur2p0pdyhr2Qh0VsO-6">
+          <mxGeometry x="67" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhtur2p0pdyhr2Qh0VsO-11" value="Add Listings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Dhtur2p0pdyhr2Qh0VsO-6" vertex="1">
+          <mxGeometry x="257" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
